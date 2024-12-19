@@ -48,10 +48,10 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
     <tbody>
         <tr>
             <td align="center">
-                <a href="https://alisolanki.com/">
-                    <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;" alt="Ali Solanki"/>
+                <a href="https://github.com/kamashwara-dk">
+                    <img src="https://avatars.githubusercontent.com/u/190452632?s=400&u=bf3823c99251977e2c26b0a3502e9e78dffda55b&v=4" width="100px;" alt="Kamashwara-dk"/>
                     <br />
-                    <sub><b>Ali Solanki</b></sub>
+                    <sub><b>Kamashwara-dk</b></sub>
                 </a> 
             </td>
             <td align="center">
